@@ -1,0 +1,6 @@
+[python-typing_extensions]
+spec = "python-typing_extensions.spec"
+build_script = ""
+build_method = "mock"
+owner = "cappy"
+git_repo = "https://github.com/ultramarine-linux/python-typing_extensions"
